@@ -93,7 +93,7 @@ int consulta() //função responsável por consultar os dados do usuário
 					
 	      system("pause");
 					         
-				   }
+				        }
 	      //fim da função de consultar
 				             
 int deletar()
@@ -126,7 +126,7 @@ int deletar()
                     	     
 					}				
 					
-				   }
+				        }
 	      //fim da função de deletar			   
     
 int main()
@@ -185,6 +185,6 @@ int main()
 						      
 					 }
 	      //Sistemas de Decisões
-                	} 
+                	                 } 
 	      //Fim da Função "for"            	
 }
