@@ -147,6 +147,7 @@ int main()
               printf("\t1 - Registrar Nomes\n");
 	      printf("\t2 - Consultar Nomes\n");
 	      printf("\t3 - Deletar Nomes\n\n");
+	      printf("\t4 - Sair do Sistema\n\n");
 	      printf("Opção: ");
 	      //Fim do Menu                          
 	      scanf("%d", &opcao);
@@ -176,7 +177,11 @@ int main()
 	      printf("Essa opção não está disponível!\n");
 	      system("pause");
 	      break;
-	
+
+	      case 4;
+	      printf("Obrigado por utilizar o Sistema!"\n);
+	      return 0;
+	      break;
 						      
 					 }
 	      //Sistemas de Decisões
